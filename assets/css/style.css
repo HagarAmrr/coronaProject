@@ -186,3 +186,7 @@ footer{
 footer h2{
   color: var(--primary-color);
 }
+
+footer .logo img{
+  filter: var(--primary-filter);
+}
